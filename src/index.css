@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.paraText{
+  font-size: 20px;
+}
+
+.myImg{
+  border-radius: 10px;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
