@@ -14,7 +14,6 @@ function About() {
                     I work as a software developer.
                     Looking for the opportunities as a Blockchain Developer.
                     <br></br>
-                    I have strong foundations of data structures, algorithms and coding fundamentals which help me in solving complex problems.
 
                     I have had a journey full of learning, and am looking forward to learning and growing!
 
@@ -38,11 +37,10 @@ function About() {
                     </a>
                 </div>
             </div>
-            <div className="lg:max-w-lg lg:w-full md:w-1/3">
+            <div className="md:w-1/3">
                 <img
                     className="myImg"
                     alt="Sharayu"
-                    // src={require('./assets/sharayu.jpeg')}
                     src={Sharayu}
                 />
             </div>

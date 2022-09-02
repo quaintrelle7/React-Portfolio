@@ -9,7 +9,7 @@ export const contacts = [
     {
         //email
         image: Gmail,
-        link: "sharayushendre7@gmail.com"
+        link: "mailto:sharayushendre7@gmail.com"
     },
     {
         //linkedin
@@ -34,6 +34,6 @@ export const contacts = [
     {
         //goodreads
         image: Goodreads,
-        link: ""
+        link: "https://www.goodreads.com/user/show/141296416-sharayu-s"
     },
 ]
