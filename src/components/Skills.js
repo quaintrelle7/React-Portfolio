@@ -16,16 +16,16 @@ export default function Skills() {
                 </div>
                 <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2 text-center">
                     {skills.map((skill) => (
-                        <div key={skill} className="p-8 sm:w-1/4">
-                            <div className="bg-indigo-800 rounded flex p-4 h-full text-center items-center">
-                                <div className="flex h-20 w-20 items-center">
+                        <div key={skill} className=" p-8 sm:w-1/4">
+                            <div className="skillGrid">
+                                <div className="skillImg">
                                     <img
                                         alt="gallery"
                                         className=""
                                         src={skill.image}
                                     />
                                 </div>
-                                <div className="absolute mt-20 font-medium text-white">
+                                <div className=" mt-20 text-xl text-white text-center">
                                     {skill.title}
                                 </div>
 

@@ -20,6 +20,41 @@ code {
   border-radius: 10px;
 }
 
+.skillGrid{
+  background-color: #3037A3;
+  width: 10rem;
+  height: 10rem;
+  align-items: center;
+  border-radius: 30px;
+  padding-top: 1rem;
+  border-width: 0px;
+  border-color: white;
+}
+
+.skillImg{
+  width: 8rem;
+  height: 2rem;
+  align-items: center;
+  padding-left: 2rem;
+}
+
+.contactImg{
+
+  width: 4rem;
+  height: 4rem;
+  
+}
+
+.word {
+  margin: auto;
+  color: white;
+  font: 700 normal 2.5em 'tahoma';
+  text-shadow: 5px 2px #222324, 2px 4px #222324, 3px 5px #222324;
+}
+
+
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

@@ -9,26 +9,26 @@ export default function Navbar() {
                 </a>
                 <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700	flex flex-wrap items-center text-base justify-center">
                     <a href="#projects"
-                        className="mr-5 inline-flex text-white items-center bg-indigo-800 border-0 py-1 px-3 focus:outline-none hover:bg-indigo-600 rounded hover:text-lg base mt-4 md:mt-0">
+                        className="rounded-3xl mr-5 inline-flex text-white items-center bg-indigo-800 border-0 py-1 px-3 focus:outline-none hover:bg-indigo-600 rounded hover:text-lg base mt-4 md:mt-0">
                         See Past Projects
                     </a>
                     <a href="#skills"
-                        className="inline-flex text-white items-center bg-indigo-800 border-0 py-1 px-3 focus:outline-none hover:bg-indigo-600 rounded hover:text-lg base mt-4 md:mt-0">
+                        className="rounded-3xl inline-flex text-white items-center bg-indigo-800 border-0 py-1 px-3 focus:outline-none hover:bg-indigo-600 rounded hover:text-lg base mt-4 md:mt-0">
                         Skills
                     </a>
 
                 </nav>
 
                 <a href="https://quaintrelle7.blogspot.com/" target=" _blank"
-                    className="mr-5 inline-flex text-white items-center bg-indigo-800 border-0 py-1 px-3 focus:outline-none hover:bg-indigo-600 rounded hover:text-lg base mt-4 md:mt-0">
+                    className="rounded-3xl mr-5 inline-flex text-white items-center bg-indigo-800 border-0 py-1 px-3 focus:outline-none hover:bg-indigo-600 rounded hover:text-lg base mt-4 md:mt-0">
                     Blog</a>
 
                 <a href="#"
-                    className="mr-5 inline-flex text-white items-center bg-indigo-800 border-0 py-1 px-3 focus:outline-none hover:bg-indigo-600 rounded hover:text-lg base mt-4 md:mt-0">
+                    className="rounded-3xl mr-5 inline-flex text-white items-center bg-indigo-800 border-0 py-1 px-3 focus:outline-none hover:bg-indigo-600 rounded hover:text-lg base mt-4 md:mt-0">
                     Download Resume</a>
                 <a
                     href="#contact"
-                    className="inline-flex text-white items-center bg-indigo-800 border-0 py-1 px-3 focus:outline-none hover:bg-indigo-600 rounded hover:text-lg base mt-4 md:mt-0">
+                    className="rounded-3xl inline-flex text-white items-center bg-indigo-800 border-0 py-1 px-3 focus:outline-none hover:bg-indigo-600 rounded hover:text-lg base mt-4 md:mt-0">
                     Contact
                 </a>
             </div>

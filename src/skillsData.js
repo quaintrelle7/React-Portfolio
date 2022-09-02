@@ -62,7 +62,7 @@ export const skills = [
         image: "",
     },
     {
-        title: "Ethereum Blockchain",
+        title: "Blockchain",
         image: Eth,
     },
     {
@@ -71,7 +71,7 @@ export const skills = [
     },
 
     {
-        title: "AWS EC2 Instance",
+        title: "AWS",
         image: "",
     },
     {
@@ -87,7 +87,7 @@ export const skills = [
         image: Writing,
     },
     {
-        title: "Augmented Reality",
+        title: "AR",
         image: AR,
     }
 
