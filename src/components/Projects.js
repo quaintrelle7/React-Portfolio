@@ -4,8 +4,8 @@ import { projects } from "../projectsData";
 export default function Projects() {
 
     return (
-        <section id="projects" className="text-gray-400 bg-gray-900 body-font">
-            <div className="container px-5 py-10 mx-auto text-center lg:px-40">
+        <section id="projects" className="bgSkills">
+            <div className="container px-5 py-10 mx-auto text-center lg:px-40 ">
                 <div className="flex flex-col w-full mb-20">
                     <h1 className="sm:text-4xl text-3xl font-medium title-font mb-4 text-white">
                         Apps I've Built
@@ -20,7 +20,7 @@ export default function Projects() {
                             href={project.link}
                             target=" _blank"
                             key={project.image}
-                            className="sm:w-1/2 w-100 p-4">
+                            className="sm:w-1/4 w-100 p-4">
                             <div className="flex relative">
 
                                 <img
@@ -29,7 +29,7 @@ export default function Projects() {
                                     src={project.image}
                                 />
 
-                                <h1 className="absolute px-20 py-20 z-10 title-font text-center text-3xl font-medium text-white">
+                                <h1 className="absolute px-20 py-20 z-5 title-font text-center text-3xl font-medium text-white">
                                     {project.title}
                                 </h1>
 

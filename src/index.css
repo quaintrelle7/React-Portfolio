@@ -21,8 +21,14 @@ code {
 
 }
 
+.bgSkills{
+  background: rgb(13,8,98);
+background: linear-gradient(0deg, rgba(13,8,98,1) 38%, rgba(48,55,163,1) 64%);
+}
+
 .skillGrid{
-  background-color: #3037A3;
+  /* background-color: #3037A3; */
+  background-color: rgba(3, 3, 3, 0.37);
   width: 10rem;
   height: 10rem;
   align-items: center;
@@ -54,7 +60,10 @@ code {
 }
 
 
+.educationTile{
 
+
+}
 
 
 @tailwind base;
