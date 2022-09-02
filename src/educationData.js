@@ -9,7 +9,7 @@ export const places = [
     },
     {
 
-        title: "National Institute of Technology, Kurukshetra",
+        title: "NIT, Kurukshetra",
         years: "2018-2022",
         work: "Bachelor of Technology in EE",
 

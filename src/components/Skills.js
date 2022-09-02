@@ -14,9 +14,9 @@ export default function Skills() {
                         Skills I've gained while working and capable of working on, but, not limited to.
                     </p>
                 </div>
-                <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2 text-center  bg-black-500 ">
+                <div className="flex flex-wrap sm:mx-20 sm:mb-2 -mx-2 text-center  bg-black-500 ">
                     {skills.map((skill) => (
-                        <div key={skill} className=" p-8 sm:w-1/4">
+                        <div key={skill} className=" p-8 sm:w-1/2 2xl:w-1/6">
                             <div className="skillGrid">
                                 <div className="skillImg">
                                     <img
