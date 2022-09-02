@@ -21,7 +21,7 @@ export default function Projects() {
                             target=" _blank"
                             key={project.image}
                             className="sm:w-1/2 w-100 p-4">
-                            <div className="flex relative">
+                            <div className="flex-wrap flex relative">
 
                                 <img
                                     alt="gallery"

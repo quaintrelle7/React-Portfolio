@@ -22,8 +22,8 @@ code {
 }
 
 .bgSkills{
-  background: rgb(13,8,98);
-background: linear-gradient(0deg, rgba(13,8,98,1) 38%, rgba(48,55,163,1) 64%);
+  background: rgb(48,55,163);
+  background: linear-gradient(180deg, rgba(48,55,163,1) 63%, rgba(9,0,11,1) 100%);
 }
 
 .skillGrid{
@@ -59,8 +59,18 @@ background: linear-gradient(0deg, rgba(13,8,98,1) 38%, rgba(48,55,163,1) 64%);
   text-shadow: 5px 2px #222324, 2px 4px #222324, 3px 5px #222324;
 }
 
-
+.bgEducation{
+  background: rgb(48,55,163);
+  background: linear-gradient(360deg, rgba(48,55,163,1) 0%, rgba(9,0,11,1) 22%);
+}
 .educationTile{
+background-color: #121983;
+height:10rem;
+width:20rem;
+position: content;
+text-align: center;
+padding-top: 2.5rem;
+border-radius: 5%;
 
 
 }
