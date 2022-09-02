@@ -10,9 +10,19 @@ function About() {
                     <div className="word">
                     </div>
                 </h1>
-                <p className="mb-8 leading-relaxed">
+                <p className="mb-8 text-xl leading-relaxed">
+                    I work as a software developer.
+                    Looking for the opportunities as a Blockchain Developer.
+                    <br></br>
+                    I have strong foundations of data structures, algorithms and coding fundamentals which help me in solving complex problems.
+
+                    I have had a journey full of learning, and am looking forward to learning and growing!
 
                 </p>
+                <h2 className="title-font sm:text-3xl text-xl mb-4 font-medium text-white">
+                    I love building amazing stuff.
+                </h2>
+
                 <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-white"> Current Focus: Blockchain| MERN </h2>
 
                 <div className="flex justify-center">

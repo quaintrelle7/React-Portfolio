@@ -9,7 +9,11 @@ import SQL from "./logos/SQL.png"
 import ReactJS from "./logos/ReactJS.png"
 import Writing from "./logos/Writing.png"
 import Outsystems from "./logos/Outsystems.png"
+import Truffle from "./logos/Truffle.svg"
+import CSS from "./logos/CSS.png"
+import ELK from "./logos/ELK.png"
 import AR from "./logos/AR.png"
+import Unity from "./logos/Unity.png"
 // import from "./logos/.png"
 // import from "./logos/.png"
 // import from "./logos/.png"
@@ -54,12 +58,12 @@ export const skills = [
     },
     {
         title: "ELK Stack",
-        image: "",
+        image: ELK,
     },
 
     {
         title: "Truffle",
-        image: "",
+        image: Truffle,
     },
     {
         title: "Blockchain",
@@ -71,20 +75,20 @@ export const skills = [
     },
 
     {
-        title: "AWS",
-        image: "",
-    },
-    {
         title: "HTML",
         image: HTML,
     },
     {
         title: "CSS",
-        image: "",
+        image: CSS,
     },
     {
         title: "Writing",
         image: Writing,
+    },
+    {
+        title: "Unity",
+        image: Unity,
     },
     {
         title: "AR",
