@@ -16,7 +16,7 @@ export default function Skills() {
                 </div>
                 <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2 text-center  bg-black-500 ">
                     {skills.map((skill) => (
-                        <div key={skill} className=" p-8 sm:w-1/6">
+                        <div key={skill} className=" p-8 sm:w-1/4">
                             <div className="skillGrid">
                                 <div className="skillImg">
                                     <img
