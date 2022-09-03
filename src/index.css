@@ -23,7 +23,7 @@ code {
 
 .bgSkills{
   background: rgb(48,55,163);
-  background: linear-gradient(180deg, rgba(48,55,163,1) 63%, rgba(9,0,11,1) 100%);
+  background: linear-gradient(180deg, rgba(48,55,163,1)1%, rgba(9,0,11,1) 100%);
 }
 
 .skillGrid{
@@ -61,7 +61,7 @@ code {
 
 .bgEducation{
   background: rgb(48,55,163);
-  background: linear-gradient(360deg, rgba(48,55,163,1) 0%, rgba(9,0,11,1) 22%);
+  background: linear-gradient(360deg, rgba(48,55,163,1) 0%, rgba(9,0,11,1) 10%);
 }
 .educationTile{
 background-color: #121983;
