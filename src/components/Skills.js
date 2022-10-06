@@ -7,7 +7,7 @@ export default function Skills() {
         <section id="skills" className="bgSkills" >
             <div className="flex-wrap container px-5 py-10 mx-auto">
                 <div className="text-center mb-20">
-                    <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
+                    <h1 className="sm:text-4xl text-3xl font-medium title-font text-black mb-4">
                         Skills &amp; Technologies
                     </h1>
                     <p className="paraText">
@@ -25,7 +25,7 @@ export default function Skills() {
                                         src={skill.image}
                                     />
                                 </div>
-                                <div className=" mt-20 text-xl text-white text-center">
+                                <div className=" mt-20 text-xl text-black text-center">
                                     {skill.title}
                                 </div>
 

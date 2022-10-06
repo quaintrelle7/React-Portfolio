@@ -6,7 +6,7 @@ export const projects = [
         title: "Eth-Swap",
         subtitle: "Javascript | Solidity",
         description:
-            "An application like Uniswap to swap Cryptocurrencies across Ethereum Blockchain. Tested locally on Ganache.",
+            "An application like Uniswap to swap Cryptocurrencies across Ethereum Blockchain. Tested locally on Ganache and Rinkeby.",
         image: Background,
         link: "https://github.com/quaintrelle7/Eth-Swap",
     },
@@ -14,7 +14,7 @@ export const projects = [
         title: "SharUToken ICO Sale",
         subtitle: "Ethereum Blockchain | Truffle",
         description:
-            "An app built for SharUtoken ICO Sale. Also, used as to exchange energy between prosumers for cryptocurrenices.",
+            "An app built for SharUtoken ICO Sale. Also, used as to exchange energy between prosumers for crypto.",
         image: Background,
         link: "https://github.com/quaintrelle7/SharUTokenSale",
     },
@@ -30,7 +30,7 @@ export const projects = [
         title: "TO-DO App",
         subtitle: "Django",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerumemo omnis voluptate exercitationem eius?",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerumemo omnis xyz uoiisui omnis omnis ",
         image: Background,
         link: "https://pythonbootcamp.com",
     },
@@ -38,7 +38,7 @@ export const projects = [
         title: "Dating App",
         subtitle: "MERN",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis ",
         image: Background,
         link: "https://github.com/quaintrelle7/dating-app",
     },
@@ -46,7 +46,7 @@ export const projects = [
         title: "Defi Bank",
         subtitle: "Blockchain | Solidity",
         description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis",
         image: Background,
         link: "https://pythonbootcamp.com",
     },
