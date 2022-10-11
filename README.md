@@ -34,6 +34,8 @@ Add following to your index.css file:
     @tailwind components;
     @tailwind utilities;
 
+If tailwind doesn't work do npm start
+
 #### Create the logos folder inside src
 
 This stores all the logos of your skills.
