@@ -7,7 +7,7 @@ export default function Skills() {
         <section id="skills" className="bgSkills" >
             <div className="flex-wrap container px-5 py-10 mx-auto">
                 <div className="text-center mb-20">
-                    <h1 className="sm:text-4xl text-3xl font-medium title-font text-black mb-4">
+                    <h1 className="heading">
                         Skills &amp; Technologies
                     </h1>
                     <p className="paraText">
@@ -34,5 +34,7 @@ export default function Skills() {
                     ))}
                 </div>
             </div>
+        <hr className="line"></hr>
+
         </section >);
 }

@@ -5,25 +5,29 @@ function About() {
     return (
 
         <section id="about" className="bgEducation">
-            <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
-                <div className="lg:flex-grow md:w-2/3 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-                    <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
+            <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center mb-20">
+                <div className="lg:flex-grow md:w-2/3 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center mt-10 mx-10">
+                    <h1 className="introLine">
                         Hi, I'm Sharayu!
                         <div className="word">
                         </div>
                     </h1>
                     <p className="mb-8 text-xl leading-relaxed">
                         I work as a software developer.
-                        Looking for the opportunities as a Blockchain Developer.
+                       
                         <br></br>
 
                         I have had a journey full of learning, and am looking forward to learning and growing!
 
                     </p>
-                    <h2 className="title-font sm:text-3xl text-xl mb-4 font-medium text-white">
-                        I love building amazing stuff.
-                    </h2>
-
+                    <h1 className="interest">
+                        <span>I love building amazing stuff!</span>
+                        {/* <div class="message">
+                            <div class="word1">building amazing stuffs.</div>
+                            <div class="word2">reading literature.</div>
+                            <div class="word3">writing experiences.</div>
+                        </div> */}
+                    </h1>
                     <h2 className="title-font sm:text-xl text-xl mb-4 font-medium text-white"> Current Focus: Blockchain| MERN </h2>
 
                     <div className="flex justify-center">
@@ -47,6 +51,7 @@ function About() {
                     />
                 </div>
             </div>
+            <hr className="line"></hr>
         </section>);
 }
 
