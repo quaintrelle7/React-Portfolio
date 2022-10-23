@@ -6,7 +6,7 @@ function About() {
 
         <section id="about" className="bgEducation">
             <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center mb-20">
-                <div className="lg:flex-grow md:w-2/3 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center mt-10 mx-10">
+                <div className="lg:flex-grow md:w-2/3 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center mt-10">
                     <h1 className="introLine">
                         Hi, I'm Sharayu!
                         <div className="word">
